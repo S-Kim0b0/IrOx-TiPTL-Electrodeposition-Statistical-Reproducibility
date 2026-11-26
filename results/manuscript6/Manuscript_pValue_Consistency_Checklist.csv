@@ -1,0 +1,16 @@
+variable_x,variable_y,SI_old_p_perm,recomputed_p_perm,old_SI_rho,recomputed_rho,manuscript_edit_needed_for_exact_p_consistency,nominal_significance_changed
+Q_CA_mC,L_Ir_mg_cm2,0.001555,0.001605,+0.738,+0.738,1,0
+Q_CA_mC,j_1p75_mA_cm2,0.781066,0.778721,+0.076,+0.076,1,0
+Q_CA_mC,eta_10_raw_mV,0.056930,0.058115,-0.488,-0.488,1,0
+Q_CA_mC,C_app_mF_cm2,0.126654,0.124684,-0.400,-0.400,1,0
+Q_CA_mC,tafel_b_raw_mV_dec,0.006835,0.006690,+0.659,+0.659,1,0
+L_Ir_mg_cm2,j_1p75_mA_cm2,0.389523,0.391968,+0.229,+0.229,1,0
+L_Ir_mg_cm2,eta_10_raw_mV,0.000065,0.000045,-0.853,-0.853,1,0
+L_Ir_mg_cm2,C_app_mF_cm2,0.917165,0.916640,-0.029,-0.029,1,0
+L_Ir_mg_cm2,tafel_b_raw_mV_dec,0.000435,0.000480,+0.788,+0.788,1,0
+j_1p75_mA_cm2,eta_10_raw_mV,0.367223,0.367388,-0.241,-0.241,1,0
+j_1p75_mA_cm2,C_app_mF_cm2,0.172689,0.173199,+0.359,+0.359,1,0
+j_1p75_mA_cm2,tafel_b_raw_mV_dec,0.379958,0.377383,-0.235,-0.235,1,0
+eta_10_raw_mV,C_app_mF_cm2,0.277974,0.277514,-0.288,-0.288,1,0
+eta_10_raw_mV,tafel_b_raw_mV_dec,0.001965,0.001770,-0.732,-0.732,1,0
+C_app_mF_cm2,tafel_b_raw_mV_dec,0.840821,0.839396,-0.056,-0.056,1,0
