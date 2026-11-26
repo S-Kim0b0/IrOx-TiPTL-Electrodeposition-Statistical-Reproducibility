@@ -1,0 +1,11 @@
+check,result,detail
+input_is_16_complete_conditions,PASS,"All 4 x 4 combinations, numeric and distinct"
+fixed_id_registry_01to08,PASS,3c548ad68cf30c9f35d7341ac77486718a21b8729a7f8253f01f325a518a7183
+spearman_unchanged_by_rng_labels,PASS,Spearman uses ranks only; independent of RNG initialization
+permutation_exact_reexecution,PASS,1515 of 1515 independent same-environment recalculations matched k and p exactly
+full_seed_verification,PASS,all 100 repeats per pair
+historical_source_manuscript_SI_table_S5,PASS,historical SI rho compared; historical permutation p values intentionally not expected to match
+sensitivity_agreement_definition,PASS,significant fraction and baseline classification agreement independently recomputed
+source_input_sha256,PASS,82a70bf78d7891404199333332eee641b7ff87ac7d340354cb539a7ace104081
+confidential_source_documents_embedded,NO,DOCX files and author/contact metadata are excluded
+rho_rounding_to_historical_SI,PASS,All 15 rho values agree at exactly 3 displayed decimal places
