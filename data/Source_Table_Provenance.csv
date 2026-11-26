@@ -1,0 +1,11 @@
+output_variable,scientific_definition,original_source,precision_note
+Q_CA_mC,Integrated anodic charge matched to ICP-MS specimen,Final Supporting Information Table S2,Values transcribed to displayed 3 decimals
+L_Ir_mg_cm2,Ir mass per geometric deposition area,Final Supporting Information Table S1,Values transcribed to displayed 5 decimals
+j_1p75_mA_cm2,Current density from selected electrode at 1.75 V vs RHE,Final Manuscript Table 1,Values transcribed to displayed 2 decimals
+eta_10_raw_mV,Uncorrected OER overpotential at 10 mA cm-2,Final Manuscript Table 1,Values transcribed to displayed 2 decimals
+C_app_mF_cm2,Apparent capacitance,Final Manuscript Table 1,Values transcribed as displayed
+Tafel_b_raw_mV_dec,Uncorrected Tafel slope,Final Manuscript Table 1,Values transcribed to displayed 2 decimals
+eta_10_iR_mV,iR-corrected overpotential additional descriptor NOT part of primary six variables,Final Supporting Information Table S3,Values transcribed as displayed
+Tafel_b_iR_mV_dec,iR-corrected Tafel slope additional descriptor NOT part of primary six variables,Final Supporting Information Table S3,Values transcribed as displayed
+deposition_potential_V_AgAgCl,Anodic electrodeposition potential in four levels,Final Manuscript Experimental Section and tables,No reconstructed measurement precision
+deposition_time_min,Anodic deposition time in four levels,Final Manuscript Experimental Section and tables,No reconstructed measurement precision

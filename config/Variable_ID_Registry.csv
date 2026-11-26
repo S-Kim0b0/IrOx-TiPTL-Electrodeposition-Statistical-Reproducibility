@@ -1,0 +1,9 @@
+variable_key,variable_symbol,variable_id,assignment_source
+Q_CA_mC,QCA,01,fixed_order_01_to_08
+L_Ir_mg_cm2,LIr,02,fixed_order_01_to_08
+j_1p75_mA_cm2,j1.75,03,fixed_order_01_to_08
+eta_10_raw_mV,eta10,04,fixed_order_01_to_08
+C_app_mF_cm2,Capp,05,fixed_order_01_to_08
+tafel_b_raw_mV_dec,b,06,fixed_order_01_to_08
+deposition_potential_V_AgAgCl,Edep,07,fixed_order_01_to_08
+deposition_time_min,tdep,08,fixed_order_01_to_08

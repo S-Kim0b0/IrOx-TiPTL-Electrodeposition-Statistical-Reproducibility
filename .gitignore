@@ -1,0 +1,20 @@
+# Local and personal working files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+*.log
+*.tmp
+*.bak
+*.docx
+*.pdf
+*.pptx
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.svg
+.env
+.env.*

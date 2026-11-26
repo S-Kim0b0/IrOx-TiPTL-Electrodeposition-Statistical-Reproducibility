@@ -1,0 +1,9 @@
+quantity,value,unit,source_or_usage
+Faraday_constant,96485,C_mol-1,Final Manuscript Section 2.4
+Ir_molar_mass,192.217,g_mol-1,Final Manuscript Section 2.4
+geometric_deposition_area,1.00,cm2,Final Manuscript Experimental Section
+permutation_resamples_per_pair,200000,iterations,Final Manuscript Section 2.4 and SI S5
+sensitivity_repetitions,100,streams,Requested numerical robustness extension
+significance_alpha,0.05,dimensionless,Exploratory conventional threshold
+rank_tie_method,average,,SI S5
+p_value_correction,1_over_B_plus_1,,Monte Carlo (k+1)/(B+1)

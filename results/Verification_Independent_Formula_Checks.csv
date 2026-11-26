@@ -1,0 +1,7 @@
+verification,status,observed,expected
+toy_rho_vs_scipy,PASS,-0.39999999999999997,-0.39999999999999997
+toy_exact_all_24_permutations,PASS,0.75,18/24
+fixed_id_mapping,PASS,01..08,01..08
+PCG64_same_seed_repeats,PASS,equal,equal
+PCG64_distinct_spawn_key,PASS,different,different
+2000_draws_batch_partition_invariance,PASS,4,4

@@ -1,0 +1,81 @@
+condition_id,metric,calculated,SI_reported,difference,display_rounding_tolerance,passes_rounding_audit,note
+V0.60_T03,Q_Ir_2e_mC_calculated,40.387598911646734,40.388,-0.0004010883532643561,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.60_T03,phi_2e_pct_calculated,24.441337249775625,24.44,0.0013372497756236612,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.60_T03,current_density_per_charge_mA_cm2_C1,472.8793352819787,472.9,-0.020664718021293993,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.60_T03,charge_per_mass_mC_mg1,4107.457121551081,4107.5,-0.04287844891860004,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.60_T03,mass_activity_A_gIr_calculated,1942.3315933383046,1942.4,-0.06840666169546239,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.60_T05,Q_Ir_2e_mC_calculated,88.42504877300135,88.425,4.877300135319729e-05,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.60_T05,phi_2e_pct_calculated,51.99057424667439,51.99,0.0005742466743896557,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.60_T05,current_density_per_charge_mA_cm2_C1,479.6006561656642,479.6,0.0006561656641679292,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.60_T05,charge_per_mass_mC_mg1,1930.9604904632151,1931.0,-0.039509536784862576,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.60_T05,mass_activity_A_gIr_calculated,926.0899182561307,926.1,-0.01008174386936389,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.60_T10,Q_Ir_2e_mC_calculated,152.6757654109678,152.676,-0.00023458903217488114,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.60_T10,phi_2e_pct_calculated,56.16486670626219,56.17,-0.00513329373781346,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.60_T10,current_density_per_charge_mA_cm2_C1,419.7031287361819,419.7,0.0031287361819067883,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.60_T10,charge_per_mass_mC_mg1,1787.447396107312,1787.4,0.04739610731189714,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.60_T10,mass_activity_A_gIr_calculated,750.1972645975803,750.2,-0.0027354024197165927,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.60_T15,Q_Ir_2e_mC_calculated,232.10571385465383,232.107,-0.001286145346170997,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.60_T15,phi_2e_pct_calculated,71.44308205891795,71.44,0.0030820589179541003,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.60_T15,current_density_per_charge_mA_cm2_C1,251.69138333302553,251.7,-0.008616666974461396,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.60_T15,charge_per_mass_mC_mg1,1405.1989619377164,1405.2,-0.0010380622836692055,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.60_T15,mass_activity_A_gIr_calculated,353.6764705882353,353.7,-0.023529411764684482,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.65_T03,Q_Ir_2e_mC_calculated,37.61678675663443,37.617,-0.0002132433655646082,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.65_T03,phi_2e_pct_calculated,17.70743368872099,17.71,-0.002566311279011302,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.65_T03,current_density_per_charge_mA_cm2_C1,369.5718690422953,369.6,-0.028130957704718185,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.65_T03,charge_per_mass_mC_mg1,5669.468908460101,5669.5,-0.031091539898625342,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.65_T03,mass_activity_A_gIr_calculated,2095.2762209767816,2095.4,-0.12377902321850343,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.65_T05,Q_Ir_2e_mC_calculated,93.44463601034248,93.445,-0.00036398965751516243,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.65_T05,phi_2e_pct_calculated,25.65264571246592,25.65,0.002645712465920269,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.65_T05,current_density_per_charge_mA_cm2_C1,234.63429498529933,234.6,0.03429498529933994,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.65_T05,charge_per_mass_mC_mg1,3913.5045122475294,3913.5,0.0045122475294192554,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.65_T05,mass_activity_A_gIr_calculated,918.2423721529867,918.3,-0.05762784701323653,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.65_T10,Q_Ir_2e_mC_calculated,172.9950545477247,172.996,-0.0009454522753173933,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.65_T10,phi_2e_pct_calculated,30.400891061131205,30.4,0.0008910611312060723,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.65_T10,current_density_per_charge_mA_cm2_C1,157.64982092836078,157.6,0.049820928360787775,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.65_T10,charge_per_mass_mC_mg1,3302.263231197772,3302.3,-0.03676880222838008,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.65_T10,mass_activity_A_gIr_calculated,520.6012070566388,520.6,0.0012070566388047155,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.65_T15,Q_Ir_2e_mC_calculated,232.45708496126773,232.458,-0.0009150387322733877,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.65_T15,phi_2e_pct_calculated,21.54075753706785,21.54,0.0007575370678516435,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.65_T15,current_density_per_charge_mA_cm2_C1,83.1117082889311,83.1,0.011708288931103539,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.65_T15,charge_per_mass_mC_mg1,4660.5484776506155,4660.5,0.048477650615495804,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.65_T15,mass_activity_A_gIr_calculated,387.34614554091985,387.3,0.04614554091983791,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.70_T03,Q_Ir_2e_mC_calculated,62.33323431330214,62.333,0.00023431330214407353,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.70_T03,phi_2e_pct_calculated,11.66790851720654,11.67,-0.0020914827934603863,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.70_T03,current_density_per_charge_mA_cm2_C1,143.609095741893,143.6,0.009095741892991782,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.70_T03,charge_per_mass_mC_mg1,8604.090835883395,8604.1,-0.009164116605461459,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.70_T03,mass_activity_A_gIr_calculated,1235.6257046223225,1235.6,0.02570462232256432,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.70_T05,Q_Ir_2e_mC_calculated,100.662802457639,100.663,-0.00019754236099345235,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.70_T05,phi_2e_pct_calculated,12.03330433964377,12.03,0.0033043396437708594,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.70_T05,current_density_per_charge_mA_cm2_C1,97.36592013484194,97.4,-0.03407986515806272,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.70_T05,charge_per_mass_mC_mg1,8342.824374189688,8342.8,0.02437418968838756,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.70_T05,mass_activity_A_gIr_calculated,812.3067717163658,812.3,0.006771716365847169,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.70_T10,Q_Ir_2e_mC_calculated,225.83122980797745,225.832,-0.0007701920225429149,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.70_T10,phi_2e_pct_calculated,14.05297011872915,14.05,0.002970118729148652,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.70_T10,current_density_per_charge_mA_cm2_C1,52.81269446172993,52.8,0.012694461729935824,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.70_T10,charge_per_mass_mC_mg1,7143.809735496777,7143.8,0.009735496776556829,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.70_T10,mass_activity_A_gIr_calculated,377.28384085352303,377.3,-0.016159146476979913,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.70_T15,Q_Ir_2e_mC_calculated,351.3209107415056,351.322,-0.0010892584944031114,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.70_T15,phi_2e_pct_calculated,13.037332524650171,13.04,-0.002667475349827697,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.70_T15,current_density_per_charge_mA_cm2_C1,32.6711767041596,32.7,-0.028823295840403773,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.70_T15,charge_per_mass_mC_mg1,7700.328618374054,7700.4,-0.07138162594583264,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.70_T15,mass_activity_A_gIr_calculated,251.57879697099588,251.6,-0.02120302900411275,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.75_T03,Q_Ir_2e_mC_calculated,81.94978123683129,81.95,-0.0002187631687178282,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.75_T03,phi_2e_pct_calculated,8.376659491391926,8.38,-0.003340508608074444,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.75_T03,current_density_per_charge_mA_cm2_C1,91.22865837141768,91.2,0.02865837141767713,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.75_T03,charge_per_mass_mC_mg1,11984.699252725715,11984.7,-0.0007472742854588432,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.75_T03,mass_activity_A_gIr_calculated,1093.348033811099,1093.4,-0.05196618890113314,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.75_T05,Q_Ir_2e_mC_calculated,114.08517873028921,114.086,-0.0008212697107836675,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.75_T05,phi_2e_pct_calculated,7.95750646799071,7.96,-0.0024935320092902558,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.75_T05,current_density_per_charge_mA_cm2_C1,64.39372802856983,64.4,-0.006271971430180656,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.75_T05,charge_per_mass_mC_mg1,12615.980288630764,12616.0,-0.019711369235665188,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.75_T05,mass_activity_A_gIr_calculated,812.3900035198873,812.4,-0.009996480112704376,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.75_T10,Q_Ir_2e_mC_calculated,246.42157665555075,246.422,-0.00042334444924563286,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.75_T10,phi_2e_pct_calculated,7.404472241836735,7.4,0.004472241836734447,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.75_T10,current_density_per_charge_mA_cm2_C1,20.651981213998756,20.7,-0.04801878600124354,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.75_T10,charge_per_mass_mC_mg1,13558.257964637824,13558.3,-0.042035362175738555,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.75_T10,mass_activity_A_gIr_calculated,280.0048887802493,280.0,0.004888780249302727,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs
+V0.75_T15,Q_Ir_2e_mC_calculated,343.12894437016496,343.13,-0.0010556298350365978,0.003,1,"Table S2: QIr,2e; mg/cm2 displayed to 5 decimals"
+V0.75_T15,phi_2e_pct_calculated,7.938426153419296,7.94,-0.0015738465807046964,0.015,1,Table S2: percentage displayed to 2 decimals
+V0.75_T15,current_density_per_charge_mA_cm2_C1,18.274654241413295,18.3,-0.02534575858670607,0.1,1,Table S2: current per charge displayed to 1 decimal
+V0.75_T15,charge_per_mass_mC_mg1,12646.303285643233,12646.3,0.0032856432335393038,0.2,1,Table S2: charge per mass displayed to 1 decimal
+V0.75_T15,mass_activity_A_gIr_calculated,231.10681997717896,231.1,0.006819977178963654,0.25,1,Table S3: selected electrode mass activity; rounded displayed inputs

@@ -1,0 +1,28 @@
+setting,value
+analysis_mode,exploratory8
+input_provenance,"Anonymized manuscript/SI printed summary-table values, NOT instrument-level raw signals"
+input_sha256,82a70bf78d7891404199333332eee641b7ff87ac7d340354cb539a7ace104081
+fixed_id_registry_sha256,3c548ad68cf30c9f35d7341ac77486718a21b8729a7f8253f01f325a518a7183
+observations,16
+variables,8
+pairs,28
+B_per_stream,200000
+sensitivity_repetitions_per_pair,100
+average_rank_tie_method,average
+rho_statistic,Pearson correlation of ranks
+tail,abs(rho_perm)>=abs(rho_obs)-1e-12
+null_permutation,Unrestricted reshuffle of one array of 16 condition-level ranks
+p_permutation_formula,(k+1)/(B+1)
+seed_format,XX0000YY: fixed variable IDs 01..08 sorted ascending
+seed_initialization,"NumPy SeedSequence(entropy=int(XX0000YY), spawn_key=(replicate_index,)) -> PCG64"
+baseline_spawn_key,0
+sensitivity_spawn_keys,1..100 (when repeats=100)
+11_digit_label,XX0000YYRRR is human-readable only; NOT supplied as one integer seed
+python,3.13.5
+numpy,2.3.5
+scipy,1.17.0
+batch_size,50000
+verification_level,full
+methodological_scope,Exploratory pairwise association in fixed 4x4 design; does not adjust potential/time
+primary_overpotential,uncorrected eta10
+multiple_testing,nominal in manuscript; Holm and BH in separate exploratory CSV
